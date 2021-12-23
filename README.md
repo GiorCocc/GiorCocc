@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorcocc" alt="giorcocc" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](github.com/GiorCocc/Sito)
+- 🔭 I’m currently working on [Portfolio](https://github.com/GiorCocc/Sito)
 
 - 🌱 I’m currently learning **javascript, algorithm and mobile developement**
 
-- 👨‍💻 All of my projects are available at [giorgiococcapani.gtsb.io/](giorgiococcapani.gtsb.io/)
+- 👨‍💻 All of my projects are available at [giorgiococcapani.gtsb.io](https://giorgiococcapani.gtsb.io/)
 
 - 📫 How to reach me **giorcocc@gmail.com**
 
