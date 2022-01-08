@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **javascript, algorithm and mobile developement**
 
-- 👨‍💻 All of my projects are available at [giorgiococcapani.gtsb.io](https://giorgiococcapani.gtsb.io/)
+- 👨‍💻 All of my projects are available at [giorgio-coccapani.it](https://giorgio-coccapani.it/)
 
 - 📫 How to reach me **giorcocc@gmail.com**
 
