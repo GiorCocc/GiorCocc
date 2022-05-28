@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorcocc" alt="giorcocc" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/GiorCocc/Sito)
+- 🔭 I’m currently working on [Portfolio](https://github.com/GiorCocc/Sito) and [LINUX programming](https://github.com/GiorCocc/SistemiOperativiEsercitazioni)
 
-- 🌱 I’m currently learning **javascript, algorithm and mobile developement**
+- 🌱 I’m currently learning **LINUX programming**
 
 - 👨‍💻 All of my projects are available at [giorgio-coccapani.it](https://giorgio-coccapani.it/)
 
