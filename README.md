@@ -1,11 +1,18 @@
 # 💫About Me :
 🔭 I’m currently working on my portfolio, some mobile apps in Flutter
+
 👨‍💻 All of my projects are available at [giorgio-coccapani.it](https://giorgio-coccapani.it/)
+
 📫 How to reach me: **giorcocc@gmail.com** or on every social network (the username is the same, everywhere)
+
 👯 I’m looking to collaborate on a videogame production
+
 🤝 I’m looking for help to create something revolutionary, I don't know what yet what
+
 🌱 I’m currently learning Linux system programming, Flutter and web developement
+
 💬 Ask me about start programming in Python or in C/C++
+
 ⚡ Fun fact: I'm a tennis player
 
 ## 🌐Socials
@@ -32,6 +39,3 @@
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/giorcocc) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@giorcocc) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
