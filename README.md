@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on my portfolio, some mobile apps in Flutter
 
-👨‍💻 All of my projects are available at [giorgio-coccapani.it](https://giorgio-coccapani.it/)
+👨‍💻 All of my projects are available at [giorgio-coccapani.it](https://bento.me/giorcocc)
 
 📫 How to reach me: **giorcocc@gmail.com** or on every social network (the username is the same, everywhere)
 
