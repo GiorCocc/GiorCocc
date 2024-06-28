@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on my portfolio, some mobile apps in Flutter
+🔭 I’m currently studing Computer Science and Enginereeng, trying to choose between Artificial Intelligence and Computer Security fields
 
 👨‍💻 All of my projects are available at [giorgio-coccapani.it](https://bento.me/giorcocc)
 
@@ -9,11 +9,11 @@
 
 🤝 I’m looking for help to create something revolutionary, I don't know what yet what
 
-🌱 I’m currently learning Linux system programming, Flutter and web developement
+🌱 I’m currently learning AI stuff
 
 💬 Ask me about start programming in Python or in C/C++
 
-⚡ Fun fact: I'm a tennis player
+⚡ Fun fact: I'm a (former) tennis player
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/giorcocc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giorgio_coccapani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgio-coccapani-4b7834186) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/giorcocc) 
